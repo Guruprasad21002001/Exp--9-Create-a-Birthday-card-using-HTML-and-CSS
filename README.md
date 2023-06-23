@@ -17,7 +17,7 @@ Use paragraph tag to disply the personalised greeting. Add an image element to d
 
 ## PROGRAM:
 ## BIRTHDAY.HTML:
-~~~
+~~~.html
 <!DOCTYPE html>
 <html>
 <head>
